@@ -312,7 +312,7 @@ nav .fa {
 }
 @media screen and (max-width:700px){
   .img-galerija {
-    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   }
 }
 .img-galerija img{
